@@ -38,7 +38,7 @@ Test if Gulp CLI is installed by running `gulp --version`.  If the command isn't
 If `gulp` is installed, follow the steps below.
 
 1. Fork and clone the repo.
-2. Run `gulp`, this will will open gentelella on your default browser
+2. Run `gulp`, this will open gentelella on your default browser
 3. Now you can code, code and code!
 4. Submit a pull request
 
@@ -65,7 +65,6 @@ If `gulp` is installed, follow the steps below.
 * jVectorMap
 * moment.js
 * Morris.js - pretty time-series line graphs
-* jquery-nicescroll plugin
 * PNotify - Awesome JavaScript notifications
 * NProgress
 * Pace
@@ -87,6 +86,8 @@ If `gulp` is installed, follow the steps below.
 * [Gentellela on Smarty 3](https://github.com/microvb/otp-thing) with one time password generator, validator, and QR code generator that has no web dependencies (self-contained) in PHP thanks to MicroVB INC
 * [Gentellela integrated into Symfony 3](https://github.com/krzysiekpiasecki/Gentelella) full stack PHP framework thanks to Krzysztof Piasecki.
 * [Gentelella on Yii framework 2](https://github.com/yiister/yii2-gentelella) with an asset bundle, a layout template and some widgets.
+* [Gentelella on Angular 2](https://github.com/kmkatsma/angular2-webpack-starter-gentelella) Angular Webpack Starter modified to utilize the Gentelella.
+* [Gentelella on Aurelia](https://github.com/kmkatsma/aurelia-gentelella) Typescript webpack skeleton modified to utilize the Gentelella.
 
 Let us know if you have done integration for this admin template on other platforms and frameworks and we'll be happy to share your work.
 
